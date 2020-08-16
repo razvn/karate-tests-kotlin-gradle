@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Dev/frameworks/micronaut/kotlin/graal/complete" value="PREVIEW" />
+        <entry key="$USER_HOME$/Dev/frameworks/micronaut/kotlin/graal/micronaut-devserver" value="PREVIEW" />
+        <entry key="$USER_HOME$/Dev/kotlin/jug/kotlin-codelab-ktor" value="PREVIEW" />
+        <entry key="$USER_HOME$/Dev/kotlin/multi-service-call" value="PREVIEW" />
+        <entry key="$USER_HOME$/Dev/kotlin/ore-devsite" value="PREVIEW" />
+        <entry key="$USER_HOME$/Dev/kotlin/ore-project-backend" value="PREVIEW" />
+        <entry key="$USER_HOME$/Dev/kotlin/work/ore-ktor-devserver" value="PREVIEW" />
+        <entry key="$USER_HOME$/Dev/work/hfpa" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+</project>
