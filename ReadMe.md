@@ -36,7 +36,7 @@ You can use either command line parameters or Env var to set up your configurati
 
 Env vars: 
 - KARATE_FEATURES_DIR (default: `/tmp/karate`)
-- KARATE_PROJECT_NAME (defaut: `PROJECT_NAME`)
+- KARATE_PROJECT_NAME (default: `PROJECT_NAME`)
 - KARATE_OUTPUT_DIR (default: `target`)
 - KARATE_THREADS_NUMBER (default: `1`)
 - KARATE_BASE_URL (default: `http://localhost:8080`)
@@ -46,5 +46,10 @@ Env vars:
 
 ex:
 ```
-java -jar build/libs/karate-tests-kotlin-gradle-1.0-SNAPSHOT-all.jar -p MyTestProject -t 2 -f ./build/libs/karate -u http://google.com -o /tmp/report
+java -jar build/libs/karate-tests-kotlin-gradle-1.0-SNAPSHOT-all.jar\
+    -p MyTestProject\
+    -t 2\
+    -f ./build/libs/karate\
+    -u http://google.com\
+    -o /tmp/report
 ```
